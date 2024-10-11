@@ -1,8 +1,9 @@
-#!/usr/bin env python3
+#!/usr/bin/env python3
 """
-Complex tyoes - list of floats
+Complex types - list of floats
 """
 from typing import List
+
 
 def sum_list(input_list: List[float]) -> float:
     """
